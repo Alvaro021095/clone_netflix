@@ -20,7 +20,7 @@ class ItemRedondo extends StatelessWidget{
                 )
               ),
               child: ClipOval(
-                child: Image.asset('assets/imgs/samuraix.png', fit: BoxFit.cover,) 
+                child: Image.asset('assets/imgs/darkTendecia.png', fit: BoxFit.cover,) 
               )
             ),
             Image.asset('assets/imgs/logo_dark.png',
